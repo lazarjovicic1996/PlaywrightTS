@@ -1,0 +1,23 @@
+{
+  "name": "playwrightts",
+  "version": "1.0.0",
+  "description": "This will be a repository for presenting the website automation using Playwright in a combination with the TypeScript language.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazarjovicic1996/PlaywrightTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lazarjovicic1996/PlaywrightTS/issues"
+  },
+  "homepage": "https://github.com/lazarjovicic1996/PlaywrightTS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
